@@ -8,3 +8,6 @@ npm i
 ```
 npm run start
 ```
+
+## Deployed
+https://flourishing-kashata-34ae8a.netlify.app
