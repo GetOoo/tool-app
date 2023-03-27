@@ -1,0 +1,14 @@
+.weatherWarn {
+  margin-top: 2.5vh;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  width: 26vw;
+  min-height: 4vh;
+}
+
+.weatherWarn img {
+  margin-right: 0.5vw;
+  width: 5vw;
+  border-radius: 1.5vh;
+  opacity: 0.95;
+}

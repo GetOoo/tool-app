@@ -1,0 +1,15 @@
+.weatherTemperature {
+  height: 28vh;
+  margin-top: -1vh;
+  text-align: center;
+}
+
+.curTemp {
+  font-size: 20vh;
+  line-height: 1;
+}
+
+.minMaxTemp {
+  font-size: 7vh;
+  line-height: 1;
+}

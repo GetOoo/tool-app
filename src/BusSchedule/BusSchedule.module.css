@@ -1,0 +1,11 @@
+.BusSchedule {
+  width: 48vw;
+  border: 1vh solid;
+  border-color: #ffffff;
+  box-shadow: 0 0 2vh hsla(0, 0%, 0%, 0.61), 0 0 20px rgba(0, 0, 0, 0),
+    inset 0 0 2vh hsla(0, 0%, 0%, 0.61), 0 0 20px rgba(0, 0, 0, 0);
+  border-radius: 5vh;
+  height: 36vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}

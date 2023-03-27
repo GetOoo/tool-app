@@ -1,0 +1,31 @@
+.weather {
+  width: 43vw;
+  height: 38vh;
+  flex-direction: row;
+  display: flex;
+  border-radius: 5vh;
+  margin-right: 2vw;
+  border: 1vh solid;
+  border-color: #ffffff;
+  box-shadow: 0 0 2vh hsla(0, 0%, 0%, 0.61), 0 0 20px rgba(0, 0, 0, 0),
+    inset 0 0 2vh hsla(0, 0%, 0%, 0.61), 0 0 20px rgba(0, 0, 0, 0);
+}
+.left {
+  width: 15vw;
+}
+.right {
+  width: 28vw;
+}
+.title {
+  height: 8vh;
+  font-size: 6vw;
+  text-align: center;
+  position: relative;
+  font-family: sans-serif;
+  font-weight: 600;
+  position: relative;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}

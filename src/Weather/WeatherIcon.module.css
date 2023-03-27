@@ -1,0 +1,14 @@
+.weatherIcon {
+  height: 24vh;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 2vh;
+  text-align: center;
+  position: relative;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.weatherIcon img {
+  width: 18vh;
+}

@@ -1,0 +1,43 @@
+@font-face {
+  font-family: digital-7;
+  src: url(../resource/digital-7.ttf);
+}
+
+.clock {
+  border-radius: 5vh;
+  height: 52vh;
+  padding-top: 0.2vh;
+  justify-content: center;
+  border: 1.1vh solid;
+  border-color: #ffffff;
+  box-shadow: 0 0 2vh hsla(0, 0%, 0%, 0.61), 0 0 20px rgba(0, 0, 0, 0),
+    inset 0 0 2vh hsla(0, 0%, 0%, 0.61), 0 0 20px rgba(0, 0, 0, 0);
+}
+
+.top {
+  flex-direction: row;
+  justify-content: space-between;
+  display: flex;
+  font-size: 6.5vw;
+  margin-top: 2vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-bottom: 2vh;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.time {
+  font-family: digital-7;
+  text-align: right;
+  font-size: 50vh;
+  line-height: 0.7;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  margin-top: -6vh;
+}
+
+.time div {
+  width: 18vw;
+}
