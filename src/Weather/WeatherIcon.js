@@ -55,7 +55,7 @@ const WeatherIcon = () => {
       if (firstCall !== 300000) setFirstCall(300000);
     }, firstCall);
     return () => clearInterval(interval);
-  }, []);
+  });
 
   return (
     <div className={classes.weatherIcon}>
